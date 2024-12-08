@@ -6,7 +6,15 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">TECHNOLOGIES</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN5ejdob2E3OG1xOHhtZjg4Y3hpOWl3eG05eHBsemE0MW5ncjRxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
@@ -24,6 +32,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">REACH OUT ON!</h2>
 
 ###
@@ -36,10 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN5ejdob2E3OG1xOHhtZjg4Y3hpOWl3eG05eHBsemE0MW5ncjRxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
